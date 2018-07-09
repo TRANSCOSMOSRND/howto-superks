@@ -1,6 +1,6 @@
 # Welcome to Superks Document Center (for Superks 1.X)
 
-Superks is a coupon generation system for merchants with Soft Space's light house terminals.
+Superks is a coupon generation system for merchants with Soft Space's light-house terminals.
 
 By using superks
 - merchant can build engagement with their customers by offering incetive coupons.
@@ -13,7 +13,13 @@ In addition
 
 # Document Categories
 
-You can use this documents in following steps and categories.
+You can use this documents in following steps and categories. There are 
+- Service Provider
+- Merchant Holders
+- Merchant
+- User
+
+Each user group has different features and targeted platform.
 
 ## Service Provider Features
 1. [Registering Merchants](register-merchant.md)
