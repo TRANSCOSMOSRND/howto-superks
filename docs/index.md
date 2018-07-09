@@ -21,3 +21,7 @@ You can use this documents in following steps and categories.
 4. Create Customer Segment
 5. Create Coupon Campaign
 6. View Report
+
+
+### Dashboard
+![Dashboard Image1](https://trdcorp.blob.core.windows.net/blog-images/ss-dashboard-screenshot1.PNG)
