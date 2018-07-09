@@ -15,10 +15,9 @@ In addition
 
 You can use this documents in following steps and categories.
 
-1. Registering Merchants
-2. Login as Merchant
+1. [Registering Merchants](register-merchants)
+2. [Login as Merchant](log-in)
 3. Create Coupon
 4. Create Customer Segment
 5. Create Coupon Campaign
 6. View Report
-
