@@ -19,7 +19,7 @@ You can use this documents in following steps and categories.
 2. [Login as Merchant](login.md)
 3. [Create Reward](create-reward.md)
 4. Create Customer Segment
-5. Create Coupon Campaign
+5. [Create Coupon Campaign](create-campaign.md)
 6. View Report
 
 
